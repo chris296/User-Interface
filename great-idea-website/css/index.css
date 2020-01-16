@@ -64,3 +64,109 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav{
+	width: 75%;
+	display: inline-block;
+}
+
+nav a{
+	text-align: center;
+	color: gray;
+	width: 15%;
+	display: inline-block;
+}
+
+div.great-idea{
+	display: inline-block;
+	width: 24%;
+}
+
+img.logo{
+	height: auto;
+	width: 60%;
+}
+
+header{
+	margin: 100px 0px;
+}
+
+h1{
+	display: inline-block;
+	text-align: center;
+	width: 45%;
+}
+h1 a{
+	display: inline-block;
+	font-size: 1400%;
+	width: 50%;
+}
+
+div.circle-image{
+	display: inline-block;
+	width: 50%;
+	text-align: center;
+}
+
+div.circle-image img{
+	height: auto;
+	width: 55%;
+}
+
+div.button{
+	display: inline-block;
+	font-size: 170%;
+	border: black solid 1.5px;
+	padding: .5% 2%;
+	width: 15%;
+	text-align: center;
+	margin: 0% 17%;
+}
+div.text{
+	display: inline-block;
+	border-style: solid none solid none;
+	border-color: black;
+	border-width: 2px;
+	padding: 50px 0px;
+	margin: 0px 5%;
+}	
+
+div.features{
+	display: inline-block;
+	width: 49%;
+	font-size: 125%;
+}
+
+div.about{
+	display: inline-block;
+	width: 49%;
+	font-size: 125%;
+}
+
+img.middle-img{
+	width: 100%;
+	height: auto;
+}
+div.middle-image{
+	display: inline-block;
+	width: 100%;
+	margin: 3% 0%;
+}
+
+section.bottom div{
+	display: inline-block;
+	font-size: 125%;
+	width: 33%;
+
+}
+
+section.Contact{
+	display:inline-block;
+	font-size: 125%;
+	margin: 50px 5%;
+}
+footer{
+	font-size:125%;
+	text-align: center;
+	margin: 5% 0px;
+}
